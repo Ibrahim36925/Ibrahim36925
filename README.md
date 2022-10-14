@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://codepen.io/ibrahim002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ibrahim002" height="30" width="40" /></a>
 <a href="https://twitter.com/ibrahim36925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahim36925" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibrahim maqsood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim maqsood" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahim maqsood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ibrahim Maqsood" height="30" width="40" /></a>
 <a href="https://fb.com/ibrahim ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahim ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahimmaqsood369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimmaqsood369" height="30" width="40" /></a>
 </p>
