@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 🔭 I’m currently working on **HTML,CSS,JAVASCRIPT**
+- 🔭 I’m currently working on **NEXT.JS**
 
-- 🌱 I’m currently learning **Web and Mobile Development**
+- 🌱 I’m currently learning **AI (ARTIFICAL INTELLIGENCE)**
 
 - 💬 Ask me about **Firebase**
 
