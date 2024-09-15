@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AI (ARTIFICAL INTELLIGENCE)**
 
-- 💬 Ask me about **Firebase**
-
 - 📫 How to reach me **ibrahimmaqsood369@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
